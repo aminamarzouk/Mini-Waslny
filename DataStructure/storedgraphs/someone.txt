@@ -1,0 +1,71 @@
+1
+u
+london aswan 10000
+london giza 8000
+
+aswan alex 4000
+aswan giza 1050
+aswan london 10000
+aswan mansora 1500
+aswan paris 5000
+aswan qena 200
+
+a - -
+
+giza alex 400
+giza aswan 1050
+giza cairo 500
+giza london 8000
+giza mombai 10000
+giza qena 900
+giza mombai 10001
+giza mombai 100
+
+alex aswan 4000
+alex giza 400
+alex mansora 300
+alex qena 2000
+
+e - -
+
+paris aswan 5000
+
+mansora alex 300
+mansora aswan 1500
+mansora qena 2000
+mansora sena 400
+
+qena alex 2000
+qena aswan 200
+qena cairo 1000
+qena giza 900
+qena mansora 2000
+qena sena 1800
+
+cairo giza 500
+cairo qena 1000
+
+mombai giza 10000
+mombai giza 10001
+mombai giza 100
+
+sena mansora 400
+sena qena 1800
+sena handi 12000
+
+handi sena 12000
+
+amina - -
+
+asd - -
+
+b - -
+
+c - -
+
+d - -
+
+f - -
+
+ahmed - -
+

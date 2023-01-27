@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/data_structure.dir/DataStructure/Edge.cpp.o CMakeFiles/data_structure.dir/DataStructure/Graph.cpp.o CMakeFiles/data_structure.dir/DataStructure/Source.cpp.o CMakeFiles/data_structure.dir/DataStructure/Vertex.cpp.o -o data_structure 

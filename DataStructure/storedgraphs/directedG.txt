@@ -1,0 +1,15 @@
+2
+d
+london giza 1080
+london alex 500
+
+giza alex 200
+giza mansora 400
+giza aswan 500
+
+alex mansora 50
+
+mansora giza 100
+
+aswan giza 300
+
